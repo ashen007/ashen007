@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 
 <p align="right">Visitors count <img src="https://profile-counter.glitch.me/ashen007/count.svg" />
+<img align="left" alt="dimuthu stats in github" src="https://github-readme-stats.vercel.app/api?username=Dimuthu-10&show_icons=true&hide_border=true" />
