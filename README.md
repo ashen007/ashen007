@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I always enjoy good music and movies from all over the world!! and i like history.
 
 
-<p align="right">Visitors count <img src="https://profile-counter.glitch.me/ashen007/count.svg" />
-<img align="left" alt="dimuthu stats in github" src="https://github-readme-stats.vercel.app/api?username=Dimuthu-10&show_icons=true&hide_border=true" />
+<!-- <p align="right">Visitors count <img src="https://profile-counter.glitch.me/ashen007/count.svg" /> -->
+<img align="left" alt="Ashen stats in github" src="https://github-readme-stats.vercel.app/api?username=ashen007&show_icons=true&hide_border=true" />
