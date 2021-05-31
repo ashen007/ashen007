@@ -10,9 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Analysis or ML 
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: 
-  - [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png" />](mailto:hewarathna@outlook.com)
-  - [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/ashen-iranga-91771315b/)
+- 📫 How to reach me: <br>
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png" />](mailto:hewarathna@outlook.com) [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/ashen-iranga-91771315b/)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I always enjoy good music and movies from all over the world!! and i like history.
 
