@@ -5,8 +5,7 @@
 
 <!-- **ashen007/ashen007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on Data Analysis
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning, Data Analysis, Data Engineering
 - 👯 I’m looking to collaborate on Data Analysis or ML 
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
