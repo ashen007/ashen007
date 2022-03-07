@@ -15,7 +15,11 @@
 
 
 <!-- <p align="right">Visitors count <img src="https://profile-counter.glitch.me/ashen007/count.svg" /> -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashen007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<p align="right">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashen007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height= "150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashen007&theme=react&layout=compact" />
+ </p>
+
 <hr/>
 
 - 📫 How to reach me: <br>
