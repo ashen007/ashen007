@@ -4,7 +4,7 @@
 
 
 <!-- **ashen007/ashen007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-- 🎓 [Department of Computing and Information Systems (SUSL)](https://www.sab.ac.lk/app/cis)
+- 🎓 [Department of Computing and Information Systems (SUSL)](https://www.sab.ac.lk/computing/departments/dcis-about)
 - 👩🏻‍💻 Data Science Intern at Surge Global
 - 🌱 I’m currently learning Machine Learning, Data Analysis, Data Engineering
 - 👯 I’m looking to collaborate on Data Analysis or ML 
