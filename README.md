@@ -14,13 +14,11 @@
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I always enjoy good music and movies from all over the world!! and i like history.
 
+<hr/>
 
-<!-- <p align="right">Visitors count <img src="https://profile-counter.glitch.me/ashen007/count.svg" /> -->
+![Ashen007's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashen007&theme=graywhite&show_icons=true&&count_private=true&include_all_commits=true)
 
-<p>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashen007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height= "150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashen007&theme=react&layout=compact" /> -->
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashen007" alt="ashen007" />
- </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashen007&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
 
