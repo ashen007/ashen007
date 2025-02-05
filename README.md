@@ -5,11 +5,15 @@
 
 <!-- **ashen007/ashen007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 🎓 [Department of Computing and Information Systems (SUSL)](https://www.sab.ac.lk/computing/departments/dcis-about)
-- 👩🏻‍💻 Data Science Intern at Surge Global
 - 🌱 I’m currently learning Machine Learning, Data Analysis, Data Engineering
 - 👯 I’m looking to collaborate on Data Analysis or ML 
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
+
+### Experience
+- Surge Global (intern data scientist)
+- InferQ (Full stack ML engineer)
+- Boolean labs (AI engineer)
 
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I always enjoy good music and movies from all over the world!! and i like history.
