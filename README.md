@@ -15,9 +15,6 @@
 - InferQ (Full stack ML engineer)
 - Boolean labs (AI engineer)
 
-<!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I always enjoy good music and movies from all over the world!! and i like history.
-
 <hr/>
 
 ![Ashen007's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashen007&theme=graywhite&show_icons=true&&count_private=true&include_all_commits=true)
