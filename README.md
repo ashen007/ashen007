@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-🎓 **Student** at [Department of Computing and Information Systems (SUSL)](https://www.sab.ac.lk/computing/departments/dcis-about)  
+🎓 **Studied** at [Department of Computing and Information Systems (SUSL)](https://www.sab.ac.lk/computing/departments/dcis-about)  
 🤖 **Specialized** in LLMs, RAG Systems, and AI Agents Development  
 🔬 **Passionate** about Full-Stack ML Engineering and Advanced AI Solutions  
 🌱 **Currently exploring** MLOps, LangChain Workflows, and Scalable AI Architectures  
